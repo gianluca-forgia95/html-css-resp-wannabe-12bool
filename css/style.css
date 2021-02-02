@@ -2,6 +2,7 @@
  float: left;
 
 }
+/* mix */
 body {
   font-family: 'Noto Sans SC', sans-serif;
   background: rgb(58,180,98);
@@ -26,13 +27,15 @@ p {
 .margin {
   margin-top: 100px;
 }
+/* mix */
+/* stile immagini */
 .text , .image  {
   text-align: center;
 
 }
 .image > img {
- width: 250px;
- height: 250px;
+  padding: 30px;
+   height: 190px;
 
 }
 .blue > img {
@@ -40,6 +43,7 @@ p {
   border-radius: 50%;
   margin-top: 30px;
 }
+/* /stile immagini */
 .description {
   line-height: 30px;
 }
