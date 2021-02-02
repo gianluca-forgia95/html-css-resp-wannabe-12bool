@@ -7,14 +7,25 @@ h2 {
   font-size: 40px;
   text-transform: uppercase;
 }
+h3 {
+  font-size: 30px;
+  text-transform: uppercase;
+  line-height: 70px;
+}
 .margin {
   margin-top: 100px;
 }
-.text , .image {
+.text , .image  {
   text-align: center;
-  padding: 20px 0;
+
 }
 .image > img {
- width: 310px;
- height: 230px;
+ width: 250px;
+ height: 250px;
+
+}
+.blue > img {
+  background-color: blue;
+  border-radius: 50px;
+  margin-top: 30px;
 }
