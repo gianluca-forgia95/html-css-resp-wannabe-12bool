@@ -1,0 +1,6 @@
+[class*='col-'] {
+ float: left;
+ background-color: #E9967A;
+ border: 1px solid black;
+ height: 200px;
+}
